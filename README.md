@@ -1,3 +1,3 @@
 # HEXColor
 
-A description of this package.
+Implementation of hexadecimal color codes for Swift.
